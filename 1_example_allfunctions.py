@@ -11,9 +11,9 @@ from functions.all import *
 
 
 result=[]
-# 5C:6A:80:A7:E7:56   	"GNGR"  
-# 5C:6A:80:72:E7:54   	"Gizli <7 karakter>"
-mymac="5C:6A:80:72:E7:54"
+# 5C:5A:20:A7:E6:56   	"Dene"  
+# 5C:5A:20:72:E6:54   	"Gizli <7 karakter>"
+mymac="5C:5A:80:72:E6:54"
 channel=2
 debug=0
 # # #
