@@ -2,7 +2,7 @@
 ############################################################################
 # 									 #
 #	IEEE 802.11 Wifi Library 					 #
-#	Developper:	Abdulkadir GÜNGÖR (abdulkadirgungor@outlook.com)	 #
+#	Developper:	Abdulkadir GÜNGÖR (abdulkadirgungor@outlook.com) #
 #	Date:	07/2020							 #
 #	All Rights Reserved (Tüm Hakları Saklıdır)			 #
 #                  							 #
@@ -13,7 +13,7 @@ from functions.all import *
 result=[]
 # 5C:5A:20:A7:E6:56   	"Dene"  
 # 5C:5A:20:72:E6:54   	"Gizli <7 karakter>"
-mymac="5C:5A:80:72:E6:54"
+mymac="5C:5A:20:72:E6:54"
 channel=2
 debug=0
 # # #
