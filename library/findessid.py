@@ -2,7 +2,7 @@
 ############################################################################
 # 									 #
 #	IEEE 802.11 Wifi Library 					 #
-#	Developper:	Abdulkadir GÜNGÖR (abdulkadirgungor@outlook.com)	 #
+#	Developper:	Abdulkadir GÜNGÖR (abdulkadir_gungor@outlook.com)	 #
 #	Date:	07/2020							 #
 #	All Rights Reserved (Tüm Hakları Saklıdır)			 #
 #                  							 #
